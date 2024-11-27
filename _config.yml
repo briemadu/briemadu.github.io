@@ -46,11 +46,13 @@ plugins:
 author:
   name   : Brielen Madureira
   avatar : /assets/images/bm.png
-  bio    : A lover of words, numbers and all animals (especially birds) <br/><br/>University of Potsdam<br/>Department Linguistics<br/>Karl-Liebknecht-Str. 24-25<br/>14476 Potsdam
+  bio    : A lover of words, numbers and all animals (especially birds)
   email: madureiralasota@uni-potsdam.de
   github: briemadu
-  #linkedin: 
-  #X: 
+  links:
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0003-2465-1062"
 
 include:
   - _pages
