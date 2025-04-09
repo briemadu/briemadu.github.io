@@ -18,6 +18,12 @@ permalink: /engagement/
 - Journals
     - Dialogue & Discourse
     - Linguamática
+    - Journal of the Brazilian Computer Society (JBCS), special issue on Language Models for Portuguese
+- Book chapters
+    - Two chapters for the book *Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português*
+
+## Service as area chair
+- CoNLL (2025)
         
 ## Awards
 - Outstanding reviewer: EACL 2023
