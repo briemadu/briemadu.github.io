@@ -3,7 +3,7 @@ title: Talks
 permalink: /talks/
 ---
 
-
+- Code Documentation. April 10, 2025. Youth Hacking 4 Freedom (remote). [:link:](https://fsfe.org/activities/yh4f/)
 - Buscando Momentos de Significado (Seeking Moments of Meaning). June 27, 2024. NILC, ICMC USP São Carlos, Brazil. [:link:](https://www.icmc.usp.br/eventos/6593-buscando-momentos-de-significado-metodos-cognitivamente-motivados-e-jogos-de-linguagem-para-avaliacao-de-modelos-de-dialogo)
 - Are you telling me to put glasses on the dog? June 19, 2024. Queen Mary University of London (remote). 
 - Incrementally Enriching the Common Ground. May 14, 2024 at the Computational Linguistics Colloquium at the University of Potsdam.
