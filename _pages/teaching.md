@@ -3,9 +3,12 @@ title: Teaching
 permalink: /teaching/
 ---
 
+## SS25
+- [B.Sc.] Programmierung I (OOP with Python)
+
 ## WS24
 
-- [B.Sc] Practical: Computerlinguistische Techniken, with Prof. David Schlangen 
+- [B.Sc.] Practical: Computerlinguistische Techniken, with Prof. David Schlangen 
 
 ## SS23
 
