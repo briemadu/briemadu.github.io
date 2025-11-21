@@ -20,7 +20,7 @@ permalink: /engagement/
     - Linguamática
     - Journal of the Brazilian Computer Society (JBCS), special issue on Language Models for Portuguese
 - Book chapters
-    - Two chapters for the book *Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português*
+    - Three chapters for the book *Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português*
 
 ## Service as area chair
 - CoNLL (2025)
@@ -38,4 +38,4 @@ permalink: /engagement/
 
 ## Community
 - Prof. Helena Caseli and I founded the group [Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) (Brazilian Women in NLP) in 2020. I am now serving as a board member.
-- Jury member of the [Youth Hacking 4 Freedom](https://fsfe.org/activities/yh4f/) (2023, 2024) organised by the Free Software Foundation Europe
+- Jury member of the [Youth Hacking 4 Freedom](https://fsfe.org/activities/yh4f/) (2023, 2024, 2025) organised by the Free Software Foundation Europe
