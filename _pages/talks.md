@@ -3,7 +3,7 @@ title: Talks
 permalink: /talks/
 ---
 
-- Entre as Palavras e os Números: Avaliacao e ética no uso de inteligência artificial em pesquisas linguísticas. November 27, 2025. Closing talk at the XVI SETED - PosLin at the Federal University of Minas Gerais, Brazil (online).
+- Entre as Palavras e os Números: Avaliacao e ética no uso de inteligência artificial em pesquisas linguísticas. November 27, 2025. Closing talk at the XVI SETED - PosLin at the Federal University of Minas Gerais, Brazil (online). [:link:](http://www.letras.ufmg.br/padrao_cms/?web=xviseted&lang=1&page=4843&menu=3252&tipo=1)
 - Code Documentation. April 10, 2025. Youth Hacking 4 Freedom (remote). [:link:](https://fsfe.org/activities/yh4f/)
 - Buscando Momentos de Significado (Seeking Moments of Meaning). June 27, 2024. NILC, ICMC USP São Carlos, Brazil. [:link:](https://www.icmc.usp.br/eventos/6593-buscando-momentos-de-significado-metodos-cognitivamente-motivados-e-jogos-de-linguagem-para-avaliacao-de-modelos-de-dialogo)
 - Are you telling me to put glasses on the dog? June 19, 2024. Queen Mary University of London (remote). 
