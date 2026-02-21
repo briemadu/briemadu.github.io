@@ -6,7 +6,7 @@ permalink: /teaching/
 ## SS25
 - [B.Sc.] Programmierung I (OOP with Python)
 
-## WS24
+## WS23/24
 
 - [B.Sc.] Practical: Computerlinguistische Techniken, with Prof. David Schlangen 
 
