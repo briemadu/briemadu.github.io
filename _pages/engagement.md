@@ -11,11 +11,12 @@ permalink: /engagement/
     - EMNLP (2023)
     - EACL (2023)
     - SDS (2023, 2024)
-    - SIGdial (2024)
-    - TeachingNLP (2024)
+    - SIGdial (2024, 2025)
+    - TeachingNLP (2024, 2026)
     - CoNLL (2024)
     - COLING 2022 (secondary)
 - Journals
+    - Computational Linguistics (ACL)
     - Dialogue & Discourse
     - Linguamática
     - Journal of the Brazilian Computer Society (JBCS), special issue on Language Models for Portuguese
@@ -38,4 +39,4 @@ permalink: /engagement/
 
 ## Community
 - Prof. Helena Caseli and I founded the group [Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) (Brazilian Women in NLP) in 2020. I am now serving as a board member.
-- Jury member of the [Youth Hacking 4 Freedom](https://fsfe.org/activities/yh4f/) (2023, 2024, 2025) organised by the Free Software Foundation Europe
+- Jury member of the [Youth Hacking 4 Freedom](https://fsfe.org/activities/yh4f/) (2023, 2024, 2025, 2026) organised by the Free Software Foundation Europe
