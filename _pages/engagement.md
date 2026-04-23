@@ -16,6 +16,7 @@ permalink: /engagement/
     - CoNLL (2024)
     - COLING 2022 (secondary)
 - Journals
+    - Natural Hazards and Earth System Sciences (NHESS) 
     - Computational Linguistics (ACL)
     - Dialogue & Discourse
     - Linguamática
