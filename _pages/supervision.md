@@ -3,9 +3,6 @@ title: (Co-)Supervision and Committees
 permalink: /supervision/
 ---
 
-## Committee Member - PhD Defence
-- Toward learning collaborative visual referring (Philipp Sadler, 2025)
-
 An overview of all the student projects I co-supervised at the University of Potsdam.
 
 ## Master Theses
@@ -32,3 +29,5 @@ An overview of all the student projects I co-supervised at the University of Pot
 - Towards Incremental Transformers: An Empirical Analysis of Transformer Models for Incremental NLU (P.K., 2021)
 - Automated Concept Map Creation from Speech Transcripts with PropS (L.S., 2021)
 
+## Committee Member - PhD Defence
+- Toward learning collaborative visual referring (Philipp Sadler, 2025)
