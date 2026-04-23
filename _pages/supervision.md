@@ -1,7 +1,10 @@
 ---
-title: (Co-)Supervision
+title: (Co-)Supervision and Committees
 permalink: /supervision/
 ---
+
+## Committee Member - PhD Defence
+- Toward learning collaborative visual referring (Philipp Sadler, 2025)
 
 An overview of all the student projects I co-supervised at the University of Potsdam.
 
