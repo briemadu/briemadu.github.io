@@ -40,4 +40,4 @@ permalink: /engagement/
 
 ## Community
 - Prof. Helena Caseli and I founded the group [Brasileiras em PLN](https://sites.google.com/view/brasileiras-pln/) (Brazilian Women in NLP) in 2020. I am now serving as a board member.
-- Jury member of the [Youth Hacking 4 Freedom](https://fsfe.org/activities/yh4f/) (2023, 2024, 2025, 2026) organised by the Free Software Foundation Europe
+- Jury member of the [Youth Hacking 4 Freedom](https://fsfe.org/activities/yh4f/) (2023, 2024, 2025, 2026) organised by the Free Software Foundation Europe. I gave an interview about this great project [here](https://fsfe.org/news/2025/news-20250417-01.html).
