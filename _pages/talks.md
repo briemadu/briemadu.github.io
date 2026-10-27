@@ -3,6 +3,7 @@ title: Talks
 permalink: /talks/
 ---
 
+- Beware of NLP! Some hints about how to properly process natural language, evaluate models and not fall for the hype. September 21, 2026. UFZ - Helmholtz-Centre for Environmental Research,  Computational Social Sciences for Extreme Events Research. Leipzig, Germany.
 - Whose pain counts? Towards analysing inequalities in collective attention cycles of international disaster coverage in German news. April 29, 2026. Invited seminar at the CLASP group in Gothenburg University, Sweden. [:link:](https://gu-clasp.github.io/events/seminars/2026-04-29-seminar-by-Brielen%20Madureira/index.html)
 - Responsabilidade no Desenvolvimento e Uso de Tecnologias de Linguagem Baseadas em IA. March 12, 2026. Instituto Mauá de Tecnologia, Brazil (online).
 - Code Documentation. April 9, 2026. Youth Hacking 4 Freedom (remote). [:link:](https://fsfe.org/activities/yh4f/)
